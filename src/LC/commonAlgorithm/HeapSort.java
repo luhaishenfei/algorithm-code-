@@ -1,4 +1,4 @@
-package commonAlgorithm;
+package LC.commonAlgorithm;
 
 //堆排序
 public class HeapSort {

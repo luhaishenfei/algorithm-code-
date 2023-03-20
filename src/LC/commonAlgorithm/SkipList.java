@@ -1,4 +1,4 @@
-package commonAlgorithm.unfinished;
+package LC.commonAlgorithm;
 
 import java.util.LinkedList;
 import java.util.List;
