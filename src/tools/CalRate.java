@@ -1,9 +1,8 @@
 package tools;
 
+import org.junit.Test;
+
 public class CalRate {
-    public static void main(String[] args) {
-        new CalRate().testRate();
-    }
 
     public void  testRate(){
         int years=20;
@@ -19,5 +18,18 @@ public class CalRate {
         }
         System.out.println(acount);
 
+    }
+
+    @Test
+    public void   calRate() {
+        System.out.println( calRate(5000.0, 0.015, 30));
+    }
+    public static double calRate(double principal,double rate,int year) {
+        double amount=0;
+        for (int i=0;i<year;i++){
+            amount=amount+principal;
+            amount=amount*(1+rate);
+        }
+        return amount;
     }
 }

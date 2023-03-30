@@ -3,6 +3,16 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC1638_count-substrings-that-differ-by-one-character.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1638" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC1638_count-substrings-that-differ-by-one-character.java" />
+              <option name="titleSlug" value="count-substrings-that-differ-by-one-character" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC2469_convert-the-temperature.java">
           <value>
             <LeetcodeEditor>
