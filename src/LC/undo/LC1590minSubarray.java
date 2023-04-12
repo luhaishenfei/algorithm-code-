@@ -48,4 +48,26 @@ public class LC1590minSubarray {
 
         return -1;
     }
+    /*
+=Item.past_7d_sale_num
+=Item.past_14d_sale_num
+=Item.past_28d_sale_num
+=Item.after_7d_sale_num
+=Item.after_14d_sale_num
+=Item.after_28d_sale_num
+=Item.contrast_7d_mid_type_increase
+=Item.contrast_7d_mid_type_prov_increase
+=Item.contrast_7d_mid_type_country_increase
+=Item.contrast_7d_full_type_increase
+=Item.contrast_7d_full_type_prov_increase
+=Item.contrast_7d_full_type_country_increase
+=Item.contrast_14d_mid_type_increase
+=Item.contrast_14d_mid_type_prov_increase
+=Item.contrast_14d_mid_type_country_increase
+=Item.contrast_14d_full_type_increase
+=Item.contrast_14d_full_type_prov_increase
+=Item.contrast_14d_full_type_country_increase
+
+
+     */
 }
