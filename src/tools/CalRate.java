@@ -20,6 +20,9 @@ public class CalRate {
 
     }
 
+
+
+
     @Test
     public void   calRate() {
         System.out.println( calRate(5000.0, 0.015, 30));

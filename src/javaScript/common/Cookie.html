@@ -9,10 +9,57 @@
 <body>
 <h5 id="myH1"></h5>
 <script>
+    //cookie
     document.cookie = "username = zhuhao";
-
     var x= document.cookie;
     document.getElementById("myH1").innerText=x;
+</script>
+<script>
+    /*
+    setTimeout
+     */
+    setTimeout( alert(),199)
+
+    /*
+    获取地理位置
+     */
+    var x = document.getElementById("demo");
+
+    function getLocation() {
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(showPosition);
+        } else {
+            x.innerHTML = "该浏览器不支持获取地理位置。";
+        }
+    }
+
+    function showPosition(position) {
+        x.innerHTML = "纬度: " + position.coords.latitude +
+            "<br>经度: " + position.coords.longitude;
+    }
+
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition);
+    } else {
+        x.innerHTML = "该浏览器不支持获取地理位置。";
+    }
+
+
+
+    /*
+    base64编码
+     */
+    encodeURIComponent()
+
+    function encode() {
+        let str = encodeURI("你好");
+        let base64 = btoa(str);
+        console.log(base64);
+    }
+    encode();
+
+
+
 </script>
 </body>
 </html>
