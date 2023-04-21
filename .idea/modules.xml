@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ebook2/Ebook.iml" filepath="$PROJECT_DIR$/Ebook2/Ebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LC/LC.iml" filepath="$PROJECT_DIR$/LC/LC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tools/Tools.iml" filepath="$PROJECT_DIR$/Tools/Tools.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm-code.iml" filepath="$PROJECT_DIR$/algorithm-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ebook/ebook.iml" filepath="$PROJECT_DIR$/ebook/ebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaScript/javaScript.iml" filepath="$PROJECT_DIR$/javaScript/javaScript.iml" />
     </modules>
   </component>
 </project>

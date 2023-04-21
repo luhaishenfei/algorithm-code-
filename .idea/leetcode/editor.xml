@@ -43,6 +43,26 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC1187_make-array-strictly-increasing.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1187" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC1187_make-array-strictly-increasing.java" />
+              <option name="titleSlug" value="make-array-strictly-increasing" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC1470_shuffle-the-array.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1470" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC1470_shuffle-the-array.java" />
+              <option name="titleSlug" value="shuffle-the-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC1637_widest-vertical-area-between-two-points-containing-no-points.java">
           <value>
             <LeetcodeEditor>
@@ -93,6 +113,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC2413_smallest-even-multiple.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2413" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC2413_smallest-even-multiple.java" />
+              <option name="titleSlug" value="smallest-even-multiple" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC2469_convert-the-temperature.java">
           <value>
             <LeetcodeEditor>
@@ -100,6 +130,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC2469_convert-the-temperature.java" />
               <option name="titleSlug" value="convert-the-temperature" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC33_search-in-rotated-sorted-array.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn33" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC33_search-in-rotated-sorted-array.java" />
+              <option name="titleSlug" value="search-in-rotated-sorted-array" />
             </LeetcodeEditor>
           </value>
         </entry>
