@@ -1,4 +1,4 @@
-package LC.finished._TreeNode;
+package finished._TreeNode;
 
 /*
 翻转二叉树

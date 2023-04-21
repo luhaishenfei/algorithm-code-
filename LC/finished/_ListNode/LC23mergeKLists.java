@@ -1,4 +1,4 @@
-package LC.finished._ListNode;
+package finished._ListNode;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

@@ -1,4 +1,4 @@
-package LC.finished._ListNode.LC622MyCircularQueue.Queue;
+package finished._ListNode.LC622MyCircularQueue.Queue;
 
 class ListNode {
 

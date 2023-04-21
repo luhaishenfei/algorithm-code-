@@ -1,4 +1,4 @@
-package LC.finished.LC232MyQueue2;
+package finished.LC232MyQueue2;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

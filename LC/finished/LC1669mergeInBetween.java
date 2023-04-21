@@ -1,6 +1,6 @@
-package LC.finished;
+package finished;
 
-import LC.finished._ListNode.ListNode;
+import finished._ListNode.ListNode;
 
 //输入：list1 = [0,1,2,3,4,5], a = 3, b = 4, list2 = [1000000,1000001,1000002]
 //输出：[0,1,2,1000000,1000001,1000002,5]

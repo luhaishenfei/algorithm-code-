@@ -1,6 +1,6 @@
-package LC.finished._TreeNode.preInPostOrderTraversal;
+package finished._TreeNode.preInPostOrderTraversal;
 
-import LC.finished._TreeNode.TreeNode;
+import finished._TreeNode.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -50,9 +50,9 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-package LC.undo;
+package undo;
 
-import LC.finished._TreeNode.TreeNode;
+import finished._TreeNode.TreeNode;
 
 import java.util.*;
 

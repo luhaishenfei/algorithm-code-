@@ -1,4 +1,4 @@
-package LC.finished.LC208MyTrie;
+package finished.LC208MyTrie;
 
 
 import java.util.HashMap;

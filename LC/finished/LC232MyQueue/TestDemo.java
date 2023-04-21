@@ -1,4 +1,4 @@
-package LC.finished.LC232MyQueue;
+package finished.LC232MyQueue;
 
 public class TestDemo {
     public static void main(String[] args) {

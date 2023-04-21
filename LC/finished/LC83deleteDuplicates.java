@@ -1,7 +1,7 @@
-package LC.finished;
+package finished;
 
 
-import LC.finished._ListNode.ListNode;
+import finished._ListNode.ListNode;
 
 public class LC83deleteDuplicates {
 

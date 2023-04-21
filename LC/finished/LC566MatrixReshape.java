@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 /*
 566. 重塑矩阵

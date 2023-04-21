@@ -1,4 +1,4 @@
-package LC.finished._ListNode;
+package finished._ListNode;
 
 /*
 2. 两数相加

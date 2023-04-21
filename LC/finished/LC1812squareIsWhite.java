@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 public class LC1812squareIsWhite {
     public static void main(String[] args) {

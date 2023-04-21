@@ -1,8 +1,8 @@
-package LC.finished._ListNode.LC622MyCircularQueue;
+package finished._ListNode.LC622MyCircularQueue;
 
 //import LC._undo.LC622MyCircularQueue.Array.MyCircularQueue;
 
-import LC.finished._ListNode.LC622MyCircularQueue.Queue.MyCircularQueue;
+import finished._ListNode.LC622MyCircularQueue.Queue.MyCircularQueue;
 
 public class TestDeomo {
     public static void main(String[] args) {

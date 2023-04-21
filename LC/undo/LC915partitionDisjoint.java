@@ -1,4 +1,4 @@
-package LC.undo;
+package undo;
 
 public class LC915partitionDisjoint {
     // 2 <= nums.length <= 10⁵

@@ -1,4 +1,4 @@
-package LC.finished._ListNode.LC641MyCircularDeque.Array;
+package finished._ListNode.LC641MyCircularDeque.Array;
 
 import java.util.Arrays;
 

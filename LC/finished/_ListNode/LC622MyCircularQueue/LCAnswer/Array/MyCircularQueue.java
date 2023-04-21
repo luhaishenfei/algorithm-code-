@@ -1,4 +1,4 @@
-package LC.finished._ListNode.LC622MyCircularQueue.LCAnswer.Array;
+package finished._ListNode.LC622MyCircularQueue.LCAnswer.Array;
 class MyCircularQueue {
     private int front;
     private int rear;

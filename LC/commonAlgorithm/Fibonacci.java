@@ -1,4 +1,4 @@
-package LC.commonAlgorithm;
+package commonAlgorithm;
 
 public class Fibonacci {
     public static void main(String[] args) {

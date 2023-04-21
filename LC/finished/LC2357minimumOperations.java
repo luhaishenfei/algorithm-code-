@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 
 //输入：nums = [1,5,0,3,5]

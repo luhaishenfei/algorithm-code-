@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 public class LCOffer29spiralOrder {
     public static void main(String[] args) {

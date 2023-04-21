@@ -1,4 +1,4 @@
-package LC.finished._ListNode.LC622MyCircularQueue.Array;
+package finished._ListNode.LC622MyCircularQueue.Array;
 
 /*
 622. 设计循环队列

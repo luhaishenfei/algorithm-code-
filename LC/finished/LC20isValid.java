@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 import java.util.Deque;
 import java.util.HashMap;

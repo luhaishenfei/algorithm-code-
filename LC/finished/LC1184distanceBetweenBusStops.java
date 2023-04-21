@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 /*
 1184. 公交站间的距离

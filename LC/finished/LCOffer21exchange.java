@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 public class LCOffer21exchange {
     public static void main(String[] args) {

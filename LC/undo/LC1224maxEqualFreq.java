@@ -1,4 +1,4 @@
-package LC.undo;
+package undo;
 
 import java.util.HashMap;
 import java.util.Map;

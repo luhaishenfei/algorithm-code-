@@ -1,4 +1,4 @@
-package LC.finished._ListNode.LC622MyCircularQueue.LCAnswer.ListNode;
+package finished._ListNode.LC622MyCircularQueue.LCAnswer.ListNode;
 
 public class MyCircularQueue {
     private ListNode head;

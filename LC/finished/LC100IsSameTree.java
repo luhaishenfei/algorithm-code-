@@ -1,6 +1,6 @@
-package LC.finished;
+package finished;
 
-import LC.finished._TreeNode.TreeNode;
+import finished._TreeNode.TreeNode;
 
 import java.util.LinkedList;
 import java.util.Queue;

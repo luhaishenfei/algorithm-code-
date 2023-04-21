@@ -1,4 +1,4 @@
-package LC.undo.LC745WordFilter;
+package undo.LC745WordFilter;
 
 import java.util.HashMap;
 

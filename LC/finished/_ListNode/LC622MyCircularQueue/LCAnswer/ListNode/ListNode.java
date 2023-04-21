@@ -1,4 +1,4 @@
-package LC.finished._ListNode.LC622MyCircularQueue.LCAnswer.ListNode;//package LC._undo.LC622MyCircularQueue.Queue;
+package finished._ListNode.LC622MyCircularQueue.LCAnswer.ListNode;//package LC._undo.LC622MyCircularQueue.Queue;
 
 public class ListNode {
 

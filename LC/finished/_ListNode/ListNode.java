@@ -1,4 +1,4 @@
-package LC.finished._ListNode;
+package finished._ListNode;
 
 public class ListNode {
         public int val;

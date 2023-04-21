@@ -1,4 +1,4 @@
-package LC.finished.LC729MyCalendar;
+package finished.LC729MyCalendar;
 
 import java.util.ArrayList;
 import java.util.List;

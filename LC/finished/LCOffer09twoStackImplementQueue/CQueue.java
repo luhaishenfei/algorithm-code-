@@ -1,4 +1,4 @@
-package LC.finished.LCOffer09twoStackImplementQueue;
+package finished.LCOffer09twoStackImplementQueue;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

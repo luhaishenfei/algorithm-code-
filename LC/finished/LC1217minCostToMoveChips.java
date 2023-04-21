@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 /*
 1217. 玩筹码

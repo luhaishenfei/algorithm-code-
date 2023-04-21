@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 public class LC905SortArrayByParity {
     public static void main(String[] args) {

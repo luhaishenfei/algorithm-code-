@@ -1,4 +1,4 @@
-package LC.undo.LC1114printInOrder;
+package undo.LC1114printInOrder;
 
 class Foo {
 

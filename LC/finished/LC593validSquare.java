@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 /*
 给定2D空间中四个点的坐标 p1, p2, p3 和 p4，如果这四个点构成一个正方形，则返回 true 。

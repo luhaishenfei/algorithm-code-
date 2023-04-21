@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 /*
 给你一个 m x n 的矩阵，最开始的时候，每个单元格中的值都是 0。

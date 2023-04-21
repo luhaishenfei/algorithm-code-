@@ -1,4 +1,4 @@
-package LC.finished._TreeNode;
+package finished._TreeNode;
 
 public class TreeNode {
     public int val;

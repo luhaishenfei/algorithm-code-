@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 public class LC1672_MostRichCustomer {
     public static void main(String[] args) {

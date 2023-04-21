@@ -1,4 +1,4 @@
-package LC.finished._ListNode.LC641MyCircularDeque.LCArray;
+package finished._ListNode.LC641MyCircularDeque.LCArray;
 
 public class MyCircularDeque {
     private int[] elements;

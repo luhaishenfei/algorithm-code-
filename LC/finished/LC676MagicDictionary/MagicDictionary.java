@@ -1,4 +1,4 @@
-package LC.finished.LC676MagicDictionary;
+package finished.LC676MagicDictionary;
 
 import java.util.ArrayList;
 import java.util.HashMap;

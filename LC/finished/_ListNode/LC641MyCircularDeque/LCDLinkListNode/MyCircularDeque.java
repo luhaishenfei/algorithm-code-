@@ -1,4 +1,4 @@
-package LC.finished._ListNode.LC641MyCircularDeque.LCDLinkListNode;
+package finished._ListNode.LC641MyCircularDeque.LCDLinkListNode;
 
 class MyCircularDeque {
     private class DLinkListNode {

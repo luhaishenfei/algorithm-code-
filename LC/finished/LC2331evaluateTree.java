@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 //给你一棵 完整二叉树 的根，这棵树有以下特征：
 //
 //
@@ -53,7 +53,7 @@ package LC.finished;
 //
 // Related Topics 树 深度优先搜索 二叉树 👍 51 👎 0
 
-import LC.finished._TreeNode.TreeNode;
+import finished._TreeNode.TreeNode;
 
 
 //leetcode submit region begin(Prohibit modification and deletion)

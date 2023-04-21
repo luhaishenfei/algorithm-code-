@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 public class LC1154_DayInYears {
     public static void main(String[] args) {

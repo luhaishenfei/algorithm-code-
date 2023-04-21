@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 public class LC1576_replaceQuestionMark {
     public static void main(String[] args) {

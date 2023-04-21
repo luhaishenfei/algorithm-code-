@@ -1,11 +1,9 @@
-package LC.finished;
+package finished;
 
-import LC.finished._ListNode.ListNode;
+import finished._ListNode.ListNode;
 
-import java.util.ArrayList;
 import java.util.Deque;
 import java.util.LinkedList;
-import java.util.List;
 
 public class LCOffer05reversePrint {
     public static void main(String[] args) {

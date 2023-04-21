@@ -1,6 +1,6 @@
-package LC.finished._ListNode.LC641MyCircularDeque;
+package finished._ListNode.LC641MyCircularDeque;
 
-import LC.finished._ListNode.LC641MyCircularDeque.Array.MyCircularDeque;
+import finished._ListNode.LC641MyCircularDeque.Array.MyCircularDeque;
 
 public class TestDemo {
     public static void main(String[] args) {

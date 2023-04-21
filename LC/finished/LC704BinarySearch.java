@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 public class LC704BinarySearch {
     public static void main(String[] args) {

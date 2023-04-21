@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

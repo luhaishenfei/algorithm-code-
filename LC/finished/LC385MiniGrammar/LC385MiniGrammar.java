@@ -1,4 +1,4 @@
-package LC.finished.LC385MiniGrammar;
+package finished.LC385MiniGrammar;
 
 public class LC385MiniGrammar {
     /*

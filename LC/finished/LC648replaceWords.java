@@ -1,10 +1,10 @@
-package LC.finished;
+package finished;
 
 import java.util.Comparator;
 import java.util.LinkedList;
 import java.util.List;
 
-import LC.finished.LC208MyTrie.Trie;
+import finished.LC208MyTrie.Trie;
 
 /*
 648. 单词替换

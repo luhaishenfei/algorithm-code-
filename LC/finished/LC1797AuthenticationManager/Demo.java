@@ -1,4 +1,4 @@
-package LC.finished.LC1797AuthenticationManager;
+package finished.LC1797AuthenticationManager;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

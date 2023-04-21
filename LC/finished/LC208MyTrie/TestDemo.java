@@ -1,4 +1,4 @@
-package LC.finished.LC208MyTrie;
+package finished.LC208MyTrie;
 
 public class TestDemo {
     public static void main(String[] args) {

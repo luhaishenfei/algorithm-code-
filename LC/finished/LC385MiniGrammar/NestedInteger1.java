@@ -1,4 +1,4 @@
-package LC.finished.LC385MiniGrammar;
+package finished.LC385MiniGrammar;
 
 import java.util.List;
 

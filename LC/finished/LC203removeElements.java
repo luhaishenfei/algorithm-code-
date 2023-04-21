@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 public class LC203removeElements {
     //     Definition for singly-linked list.

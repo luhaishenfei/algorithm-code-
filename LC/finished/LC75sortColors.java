@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 /*
 75. 颜色分类

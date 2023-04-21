@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 /*
 解答成功:

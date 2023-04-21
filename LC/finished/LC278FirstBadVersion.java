@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 public class LC278FirstBadVersion {
 

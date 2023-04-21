@@ -1,4 +1,4 @@
-package LC.undo;
+package undo;
 
 /*
 592. 分数加减运算

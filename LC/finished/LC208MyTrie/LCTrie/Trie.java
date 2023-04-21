@@ -1,4 +1,4 @@
-package LC.finished.LC208MyTrie.LCTrie;
+package finished.LC208MyTrie.LCTrie;
 
 class Trie {
     private Trie[] children;

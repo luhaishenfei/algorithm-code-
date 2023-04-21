@@ -1,4 +1,4 @@
-package LC.undo;
+package undo;
 /*
     //输入：arr = [3,1,2,4]
     //输出：17

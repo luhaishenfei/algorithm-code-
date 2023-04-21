@@ -1,4 +1,4 @@
-package LC.finished._TreeNode;
+package finished._TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

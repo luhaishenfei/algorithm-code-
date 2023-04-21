@@ -1,4 +1,4 @@
-package LC.undo;
+package undo;
 
 public class LC782movesToChessboard {
 

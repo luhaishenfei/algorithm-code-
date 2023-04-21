@@ -1,4 +1,4 @@
-package LC.finished;
+package finished;
 
 public class LC88Merge {
     public static void main(String[] args) {

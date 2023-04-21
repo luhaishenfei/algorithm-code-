@@ -63,7 +63,7 @@
 // Related Topics 数组 哈希表 有序集合 排序 👍 26 👎 0
 
 
-package LC.finished;
+package finished;
 
 import java.util.*;
 

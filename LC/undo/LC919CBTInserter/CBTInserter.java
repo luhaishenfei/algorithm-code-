@@ -1,6 +1,6 @@
-package LC.undo.LC919CBTInserter;
+package undo.LC919CBTInserter;
 
-import LC.finished._TreeNode.TreeNode;
+import finished._TreeNode.TreeNode;
 
 public class CBTInserter {
 
