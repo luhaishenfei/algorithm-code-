@@ -95,7 +95,6 @@ public class LC658findClosestElements {
                     res.add(arr[rightIdx++]);
                 }
             }
-
         }
         res.sort(new Comparator<Integer>() {
             @Override

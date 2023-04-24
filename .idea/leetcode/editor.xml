@@ -43,6 +43,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC1105_filling-bookcase-shelves.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1105" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC1105_filling-bookcase-shelves.java" />
+              <option name="titleSlug" value="filling-bookcase-shelves" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC1187_make-array-strictly-increasing.java">
           <value>
             <LeetcodeEditor>
@@ -50,6 +60,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC1187_make-array-strictly-increasing.java" />
               <option name="titleSlug" value="make-array-strictly-increasing" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC11_container-with-most-water.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn11" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC11_container-with-most-water.java" />
+              <option name="titleSlug" value="container-with-most-water" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -140,6 +160,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC33_search-in-rotated-sorted-array.java" />
               <option name="titleSlug" value="search-in-rotated-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC658_find-k-closest-elements.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn658" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC658_find-k-closest-elements.java" />
+              <option name="titleSlug" value="find-k-closest-elements" />
             </LeetcodeEditor>
           </value>
         </entry>
