@@ -33,6 +33,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC1048_longest-string-chain.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1048" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC1048_longest-string-chain.java" />
+              <option name="titleSlug" value="longest-string-chain" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC1053_previous-permutation-with-one-swap.java">
           <value>
             <LeetcodeEditor>
@@ -163,6 +173,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC2512_reward-top-k-students.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2512" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC2512_reward-top-k-students.java" />
+              <option name="titleSlug" value="reward-top-k-students" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC33_search-in-rotated-sorted-array.java">
           <value>
             <LeetcodeEditor>
@@ -193,6 +213,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC9_palindrome-number.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn9" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC9_palindrome-number.java" />
+              <option name="titleSlug" value="palindrome-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC剑指 Offer 07_zhong-jian-er-cha-shu-lcof.java">
           <value>
             <LeetcodeEditor>
@@ -210,6 +240,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC剑指 Offer 10- II_qing-wa-tiao-tai-jie-wen-ti-lcof.java" />
               <option name="titleSlug" value="qing-wa-tiao-tai-jie-wen-ti-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC剑指 Offer 16_shu-zhi-de-zheng-shu-ci-fang-lcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 16" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC剑指 Offer 16_shu-zhi-de-zheng-shu-ci-fang-lcof.java" />
+              <option name="titleSlug" value="shu-zhi-de-zheng-shu-ci-fang-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
