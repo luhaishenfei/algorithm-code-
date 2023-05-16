@@ -42,7 +42,39 @@ package undo;
 
 public class LCOffer11minArray {
 
+
+
+
+    //violence
+    /*
+	执行耗时:0 ms,击败了100.00% 的Java用户
+	内存消耗:41.7 MB,击败了7.19% 的Java用户
+     */
     public int minArray(int[] numbers) {
+        int min=numbers[0];
+        for (int i = 0; i < numbers.length; i++) {
+            if (numbers[i]<min) min=numbers[i];
+        }
+        return min;
+    }
+
+    public int minArrayLC(int[] numbers) {
+        int low = 0;
+        int high = numbers.length - 1;
+        while (low < high) {
+            int pivot = low + (high - low) / 2;
+            if (numbers[pivot] < numbers[high]) {
+                high = pivot;
+            } else if (numbers[pivot] > numbers[high]) {
+                low = pivot + 1;
+            } else {
+                high -= 1;
+            }
+        }
+        return numbers[low];
+    }
+
+    public int minArrayBak(int[] numbers) {
         int min = -50001;
         for (int i = 0; i < numbers.length; i++) {
 
@@ -51,7 +83,10 @@ public class LCOffer11minArray {
     }
 
     public int minArray(int[] numbers, int start, int end) {
-
-        return -1;
+        int min=numbers[0];
+        for (int i = 0; i < numbers.length; i++) {
+            if (numbers[i]<min) min=numbers[i];
+        }
+        return min;
     }
 }
