@@ -41,7 +41,8 @@ package undo;
 
 
 public class LCOffer11minArray {
-
+    public static void main(String[] args) {
+    }
 
 
 
