@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Ebook2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CSBaGuWen/multithreading/01Java中线程的实现方式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CSBaGuWen/multithreading/02Java中线程的状态" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
