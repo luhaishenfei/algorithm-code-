@@ -2,7 +2,7 @@ package undo;
 
 import finished._TreeNode.TreeNode;
 
-public class LCOffer07buildTree {
+public class LCOffer7buildTree {
 
     /*
     //Input: preorder = [3,9,20,15,7], inorder = [9,3,15,20,7]
