@@ -7,6 +7,11 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CSBaGuWen/multithreading/01Java中线程的实现方式" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CSBaGuWen/multithreading/02Java中线程的状态" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CSBaGuWen/multithreading/03结束线程的方式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CSBaGuWen/multithreading/04Java中sleep和wait区别" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CSBaGuWen/multithreading/05并发编程的三大特性" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CSBaGuWen/multithreading/06什么是CAS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CSBaGuWen/multithreading/08Java中的四种引用类型" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
