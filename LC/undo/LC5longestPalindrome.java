@@ -7,5 +7,4 @@ public class LC5longestPalindrome {
 
         return null;
     }
-
 }
