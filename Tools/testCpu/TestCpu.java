@@ -1,4 +1,7 @@
 public class TestCpu {
+
+    //10.0.20.85             1135607320
+    //10.0.19.168            1209337692
     public static void main(String[] args) {
         int times = 10;
         long res = 0;
