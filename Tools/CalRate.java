@@ -17,7 +17,6 @@ public class CalRate {
             acount=acount*(1+rax);
         }
         System.out.println(acount);
-
     }
 
 

@@ -1,4 +1,4 @@
-package undo.hardThatCanFinish_JustNow;
+package undo._tooHardToFinish_JustNow;
 
 public class LC672flipLights {
     //  1 ：反转当前所有状态（即开变为关，关变为开）
