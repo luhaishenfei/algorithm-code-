@@ -243,6 +243,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC2490_circular-sentence.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2490" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC2490_circular-sentence.java" />
+              <option name="titleSlug" value="circular-sentence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC2512_reward-top-k-students.java">
           <value>
             <LeetcodeEditor>
