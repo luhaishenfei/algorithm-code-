@@ -273,6 +273,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC2679_sum-in-a-matrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2679" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC2679_sum-in-a-matrix.java" />
+              <option name="titleSlug" value="sum-in-a-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC33_search-in-rotated-sorted-array.java">
           <value>
             <LeetcodeEditor>
@@ -620,6 +630,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC剑指 Offer 42_lian-xu-zi-shu-zu-de-zui-da-he-lcof.java" />
               <option name="titleSlug" value="lian-xu-zi-shu-zu-de-zui-da-he-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC剑指 Offer 43_1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 43" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../code/LCCode/leetcode/editor/cn/LC剑指 Offer 43_1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.java" />
+              <option name="titleSlug" value="1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
