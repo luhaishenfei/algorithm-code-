@@ -10,6 +10,108 @@
 
 
 <script>
+
+
+
+    // 验证格式
+    window.verifyFileHandle = (files) => {
+        return new Promise((resolve, reject) => {
+            const imgTypes = ['jpg', 'png', 'jpeg', 'gif']
+            for(let i = 0; i < files.length; i++) {
+                const index = files[i].name.indexOf('.')
+                const fileType = files[i].name.substring(index+1)
+                if (!imgTypes.includes(fileType)) {
+                    reject('图片格式不正确')
+                    break
+                }
+                if(files[i].size/1024/1024>10) {
+                    reject('图片不能大于10M')
+                    break
+                }
+            }
+            resolve()
+        })
+    }
+
+    // 原生POST请求
+    window.httpPostLocaltion = (file) => {
+        const baseUrl = "http://image.ihotwind.cn/"
+        // const url = "http://10.0.16.158:8076/image/upload";
+//
+        const url = "http://picture.ihotwind.cn/image/upload";
+        return new Promise((resolve, reject) => {
+            const formData = new FormData()
+            formData.append('groupld','groupld1')
+            formData.append('file', file)
+            const xhr = new XMLHttpRequest();
+            xhr.open("post", url);
+            xhr.send(formData);
+            xhr.onload = function() {
+                const response = JSON.parse(xhr.response)
+                if (xhr.status == 200 && response.rspCode == 0) {
+                    resolve(baseUrl + response.data.fileId)
+                } else {
+                    reject(response.rspMsg)
+                }
+            }
+        })
+    }
+
+    // 文件上传
+    window.uploadHandle =  (files) => {
+        const urlList = []
+        for(let i = 0; i < files.length; i++) {
+            urlList.push(httpPostLocaltion(files[i]))
+        }
+        return Promise.all(urlList);
+    }
+
+    // 点击上传
+    window.uploadImg = async (event) => {
+        try {
+            const files = event.target.files
+            // 验证格式
+            await window.verifyFileHandle(files)
+            // 获取URL
+            const urlList = await window.uploadHandle(files)
+            // 插入dom
+            urlList.forEach(item => {
+                const dom = `
+                    <div onclick="deleteImg('${item}')" class="img-close" style=\"font-size: 20px;line-height: 1;color: #f00;cursor: pointer;position: absolute;top: -10px; right: -8px;\">×</div>
+                    <img src='${item}' alt='图片加载错误' title='图片' class="img-view" style=\"width: 60px;height: 60px;\" />
+                `
+                const div = document.createElement('div')
+                div.innerHTML = dom
+                div.className = 'img-item'
+                div.style = 'margin: 0 10px;position: relative;'
+                const uploadBox = document.querySelector(".img-box")
+                uploadBox.appendChild(div)
+            })
+        } catch(error) {
+            alert(error)
+        }
+    }
+
+    // 删除图片
+    window.deleteImg = (src) => {
+        const imgViews = document.getElementsByClassName('img-view')
+        for(let i = 0; i < imgViews.length; i++) {
+            if (imgViews[i].src == src) {
+                document.getElementsByClassName('img-item')[i].remove()
+            }
+        }
+        //document.getElementsByClassName('img-view')[0].src
+    }
+
+
+
+
+
+    $(".picturePoint").before(" <input id=\"imgUpload\" name=\"myFiles\" type=\"file\" accept=\".jpg, .jpeg, .png, .gif\" multiple\n" +
+        "           onchange=\"window.uploadImg(event)\"/>\n" +
+        "    <div class=\"img-box\" style=\"margin-top:10px;display: flex; align-items: center;\"></div>");
+
+
     $("#sendBtn").click(function () {
         console.log('you win');
         // $("#sendBtn").load("loadMethodTest.txt");
