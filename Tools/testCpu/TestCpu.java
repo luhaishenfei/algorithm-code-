@@ -23,5 +23,6 @@ public class TestCpu {
         System.out.println(res/times + " avg Loops in 6 seconds,test "+ times +" times.");
     }
 }
-// company  i5-10500    1912852834
-// my       desktop     1170471211
+// company     i5-10500    1912852834
+// myLaptop    desktop     1170471211
+// myPC        3600        1814861229
